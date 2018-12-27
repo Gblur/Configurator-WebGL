@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Konfigurator",
+"dataUrl": "vers3.data.unityweb",
+"wasmCodeUrl": "vers3.wasm.code.unityweb",
+"wasmFrameworkUrl": "vers3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
